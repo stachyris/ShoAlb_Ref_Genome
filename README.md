@@ -1,4 +1,4 @@
-# Sholicola_albiventris-Ref-Genome
+# Sholicola albiventris Reference Genome
 Repo for the Reference genome assembled for Sholicola albiventris, an endemic vulnerable species from the Western Ghats of India. 
 
 ``bShoAlb1.1_Pipeline_Flowchart.pdf`` contains the step by step flowchart depicting the process of assembly and sub-sequent analysis. Corresponding scripts can be found under ``00_scripts`` with subdirectories of each process. 
