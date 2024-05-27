@@ -23,6 +23,7 @@ To cite the publication:
 
 ## Contact information
 
-Please contact the following in case of interest
-[Vinay K L](https://klvinay.weebly.com/)
+Please contact the following in case of interest.
+
+[Vinay K L](https://klvinay.weebly.com/)  
 PhD student, Louisiana State University
