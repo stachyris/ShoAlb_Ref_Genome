@@ -25,5 +25,5 @@ To cite the publication:
 
 Please contact the following in case of interest.
 
-[Vinay K L](vkl1@lsu.edu)  
+Vinay K L[vkl1@lsu.edu](mailto:vkl1@lsu.edu)  
 PhD student, Louisiana State University
