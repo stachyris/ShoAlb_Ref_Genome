@@ -31,7 +31,7 @@ This repo contains scripts and pipeline for the Reference genome assembly for th
 
     - **09-ANNOTATE** 
         -  **01_repeat_masking** : Scripts to build species specific repeat libray and soft masking the genome using RepeatMasker. 
-        
+
         - **02_gene_prediction** : ab inito gene prediction and annotation based on the multiple gene annotations tools. 
 
     - **10-UCEs** : Scripts to isolate Ultra Conserved Elements as a measure of QC for genome completeness following Phyluce Tutorial III. 
@@ -40,14 +40,14 @@ This repo contains scripts and pipeline for the Reference genome assembly for th
 
 
 
-- **01_Figures** : contains the final figures as displayed in the manuscript. ``Figure_{i}.jpg`` are main text figures and ``Figure_S{i}.png`` are supplemental figures. 
+- **01_Figures** : Contains the final figures as displayed in the manuscript. ``Figure_{i}.jpg`` are main text figures and ``Figure_S{i}.png`` are supplemental figures. 
 
-- **bShoAlb1.1_Pipeline_Flowchart.pdf** : contains the step by step flowchart depicting the process of assembly and sub-sequent analysis. 
+- **bShoAlb1.1_Pipeline_Flowchart.pdf** : Contains the step by step flowchart depicting the process of assembly and sub-sequent analysis. 
 
 
 ## Data Availability
 
-This Whole Genome Shotgun project has been deposited at GenBank under the accession ``JBDGPF000000000``. The version described in this paper is version ``JBDGPF010000000``.  Raw reads with accession numbers ``SRR28564530`` and ``SRR28558515`` under the BioProject ``PRJNA1096119`` are available from NCBI. Additional supporting data are available from the [Open Science Framework](https://osf.io/m95q7/?view_only=ff65bfb8cbd94e808b6406c818bbf963)
+This Whole Genome Shotgun project has been deposited at GenBank under the accession ``JBDGPF000000000``. The version described in this repo is version ``JBDGPF010000000``.  Raw reads with accession numbers ``SRR28564530`` and ``SRR28558515`` under the BioProject ``PRJNA1096119`` are available from NCBI. Additional supporting data are available from the [Open Science Framework](https://osf.io/m95q7/?view_only=ff65bfb8cbd94e808b6406c818bbf963)
 
 
 ## Attribution
