@@ -37,7 +37,7 @@ This repo contains scripts and pipeline for the Reference genome assembly for th
     - **10-UCEs** : Scripts to isolate Ultra Conserved Elements as a measure of QC for genome completeness following Phyluce Tutorial III. 
 
     - **11-GENOME-SYNTENY** : Genome-genome alignment using Nucmer module and visulization of the scaffold synteny using R. 
-
+ 
 
 
 - **01_Figures** : Contains the final figures as displayed in the manuscript. ``Figure_{i}.jpg`` are main text figures and ``Figure_S{i}.png`` are supplemental figures. 
