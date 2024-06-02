@@ -1,7 +1,7 @@
 # *Sholicola albiventris* Reference Genome
 
 ## Overview
-This repo contains scripts and pipeline for the Reference genome assembly for the Whie-bellied Sholakili *Sholicola albiventris*, an endemic vulnerable species from the Western Ghats of India. Assembly has numerous steps and each of them are numbered and can be found in respective subdirectories. 
+This repo contains scripts and pipeline for the Reference genome assembly for the White-bellied Sholakili *Sholicola albiventris*, an endemic vulnerable species from the Western Ghats of India. Assembly has numerous steps and each of them are numbered and can be found in respective subdirectories. 
 
 ## Repo Structure
 
@@ -17,7 +17,7 @@ This repo contains scripts and pipeline for the Reference genome assembly for th
 
     - **00-NCBI** : Screening for adapter and alien species contamination using NCBI-FCS suit. 
 
-    - **04-QC** : Compleasm scripts for genome completeness assesment after each step of assembly, polishing and scaffolding. 
+    - **04-QC** : Compleasm scripts for genome completeness assessment after each step of assembly, polishing and scaffolding. 
 
     - **05-POLISHING** : Five rounds of polishing scripts of two types of reads and three different tools. 
 
@@ -25,18 +25,18 @@ This repo contains scripts and pipeline for the Reference genome assembly for th
 
     - **07b-SCAFFOLDING** : Minimizer map based assembly scaffolding using long reads. 
 
-    - **07c-PSUEDOMOLECULE** : Reference assisted assembly scaffolding to generate psuedomolecule/psuedochromosomes using Zebra Finch reference genome. 
+    - **07c-PSEUDOMOLECULE** : Reference assisted assembly scaffolding to generate pseudomolecule/pseudochromosomes using Zebra Finch reference genome. 
 
     - **08-FINAL** : Custom python scripts to rename the scaffolds of nuclear  and mitogenome assemblies. 
 
     - **09-ANNOTATE** 
-        -  **01_repeat_masking** : Scripts to build species specific repeat libray and soft masking the genome using RepeatMasker. 
+        -  **01_repeat_masking** : Scripts to build species specific repeat library and soft masking the genome using RepeatMasker. 
 
-        - **02_gene_prediction** : ab inito gene prediction and annotation based on the multiple gene annotations tools. 
+        - **02_gene_prediction** : ab initio gene prediction and annotation based on the multiple gene annotations tools. 
 
     - **10-UCEs** : Scripts to isolate Ultra Conserved Elements as a measure of QC for genome completeness following Phyluce Tutorial III. 
 
-    - **11-GENOME-SYNTENY** : Genome-genome alignment using Nucmer module and visulization of the scaffold synteny using R. 
+    - **11-GENOME-SYNTENY** : Genome-genome alignment using Nucmer module and visualization of the scaffold synteny using R. 
  
 
 
