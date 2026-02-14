@@ -53,9 +53,7 @@ This Whole Genome Shotgun project has been deposited at GenBank under the access
 
 ## Attribution
 
-To cite the publication: K L Vinay, Chiti Arvind, Naman Goyal, V V Robin, High-quality genome assembly of the endemic, threatened, White-bellied Sholakili Sholicola albiventris (Muscicapidae: Blanford, 1868) from the Shola Sky Islands, India, Journal of Heredity, 2025;, esaf049, https://doi.org/10.1093/jhered/esaf049
-
-Pre-print can also be found on Qeios - https://www.qeios.com/read/OFCM3I
+To cite the publication: K L Vinay, Chiti Arvind, Naman Goyal, V V Robin, High-quality genome assembly of the endemic, threatened, White-bellied Sholakili Sholicola albiventris (Muscicapidae: Blanford, 1868) from the Shola Sky Islands, India, Journal of Heredity, Volume 117, Issue 1, January 2026, Pages 151–158, https://doi.org/10.1093/jhered/esaf049
 
 ## Contact information
 
